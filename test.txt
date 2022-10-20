@@ -5,3 +5,6 @@ line 2 before rebase
 
 rebase test
 
+line 2
+
+
