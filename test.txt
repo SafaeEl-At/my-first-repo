@@ -1,5 +1,7 @@
 ##Test Stash
 
 
-line 2 before Revert
+line 2 before rebase
+
+rebase test
 
