@@ -2,7 +2,7 @@
 
 feature develop
 
-line 2 before rebase
+line 2
 
 rebase test
 
