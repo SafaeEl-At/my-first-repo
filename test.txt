@@ -8,4 +8,8 @@ rebase test
 
 line 2
 
+line3
+
+line 4
+
 
